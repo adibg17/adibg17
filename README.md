@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Aditya
 
 ## 🚀 About Me
 
-I'm a passionate **Data Scientist** and **Machine Learning Engineer** who loves turning data into actionable insights and building intelligent systems. With a strong foundation in analytics and AI, I'm always exploring new technologies and methodologies to solve complex problems.
+I'm a final year CSE student at Dayananda Sagar College Of Engineering,Bengaluru.I am passionate about **Data Science** and **Machine Learning** who loves turning data into actionable insights and building intelligent systems. With a strong foundation in analytics and AI, I'm always exploring new technologies and methodologies to solve complex problems.
 
 ### 🎯 Core Expertise
 - **Data Science & Analytics** - Extracting meaningful insights from complex datasets
